@@ -1,28 +1,21 @@
 ## 🏠 머무름만으로도 여행이 되는 공간, STAWEFOLIO
 
-<br />
-
 ![](https://velog.velcdn.com/images/sujeong_dev/post/5aa50db8-787b-43ac-8b61-f79c31a8b5a6/image.gif)
 
-<br />
 <br />
 
 ## 👏 소개
 
 stayfolio를 모티브로한 숙박 예약 사이트
-<br />
-<br />
+
 <br />
 
 ## 💡 서비스
-
- <br />
 👤 소셜(kakao) 로그인 <br />
 🎵 숙소에서 감성을 더해줄 음악 추천 <br />
 🏠 카테고리 별 숙소 필터링 및 키워드 검색 <br />
 🛒 숙소 예약 및 예약 내역 조회 <br />
-<br />
-<br />
+
 <br />
 
 ## 🚀 실행방법
@@ -33,6 +26,66 @@ $ npm install
 $ npm start
 ```
 
+<br />
+
+## ⭐️ 프로젝트 구조
+```
+.src
+├── Router.js
+├── components
+│   ├── DayPicker
+│   │   ├── CustomInput.js
+│   │   └── DayPicker.js
+│   ├── Footer
+│   │   └── Footer.js
+│   ├── Nav
+│   │   ├── Nav.js
+│   │   ├── WhenTo.js
+│   │   └── WhereTo.js
+│   └── RoomCard
+│       └── RoomCard.js
+├── config.js
+├── images
+│   └── booking
+│       └── furniture.jpg
+├── index.js
+├── pages
+│   ├── Booking
+│   │   └── Booking.js
+│   ├── Login
+│   │   ├── Hooks
+│   │   │   └── useFetch.js
+│   │   ├── Login.js
+│   │   ├── LoginCode.js
+│   │   └── OAuth.js
+│   ├── Main
+│   │   ├── Main.js
+│   │   └── Vibes.js
+│   ├── Mypage
+│   │   ├── Components
+│   │   │   ├── BeforeAfter.js
+│   │   │   └── Roomcard.js
+│   │   └── Mypage.js
+│   ├── Payment
+│   │   └── Payment.js
+│   └── RoomList
+│       ├── DayPicker
+│       │   └── CustomInput.js
+│       ├── DropDown
+│       │   ├── DropDown.js
+│       │   ├── People.js
+│       │   ├── PriceRange.js
+│       │   ├── Stay.js
+│       │   └── Theme.js
+│       ├── Room.js
+│       └── RoomList.js
+└── styles
+    ├── GlobalStyle.js
+    └── theme.js
+```
+
+<br />
+
 ## 🔧 사용하는 기술스택
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display=inline" />
@@ -41,8 +94,7 @@ $ npm start
 </p>
 
 ![](https://velog.velcdn.com/images/sujeong_dev/post/7ae959d1-f530-4b7a-b1ae-92b0809d813d/image.png)
-<br />
-<br />
+
 <br />
 
 ## 💡 협업 방법
@@ -52,8 +104,6 @@ $ npm start
 
 ### 협업 tools 및 개발규칙는 [위키](https://github.com/wecode-bootcamp-korea/39-2nd-stawefolio-frontend/wiki) 참조
 
-<br />
-<Br />
 <br />
 
 ## ❤️ 팀원
