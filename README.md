@@ -25,6 +25,14 @@ stayfolio를 모티브로한 숙박 예약 사이트
 <br />
 <br />
 
+## 🚀 실행방법
+```zsh
+$ git clone https://github.com/sujeong-dev/39-2nd-stawefolio-frontend.git
+$ git pull origin main
+$ npm install
+$ npm start
+```
+
 ## 🔧 사용하는 기술스택
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display=inline" />
