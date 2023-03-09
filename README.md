@@ -28,6 +28,17 @@ $ npm start
 
 <br />
 
+## 🔧 사용하는 기술스택
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display=inline" />
+<img src="https://img.shields.io/badge/Styled%20 Components-DB7093?style=flat-square&logo=StyledComponents&logoColor=white" style="display:inline-block"/>
+<figure class="third"></figure>
+</p>
+
+![](https://velog.velcdn.com/images/sujeong_dev/post/7ae959d1-f530-4b7a-b1ae-92b0809d813d/image.png)
+
+<br />
+
 ## ⭐️ 프로젝트 구조
 ```
 .src
@@ -86,16 +97,6 @@ $ npm start
 
 <br />
 
-## 🔧 사용하는 기술스택
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display=inline" />
-<img src="https://img.shields.io/badge/Styled%20 Components-DB7093?style=flat-square&logo=StyledComponents&logoColor=white" style="display:inline-block"/>
-<figure class="third"></figure>
-</p>
-
-![](https://velog.velcdn.com/images/sujeong_dev/post/7ae959d1-f530-4b7a-b1ae-92b0809d813d/image.png)
-
-<br />
 
 ## 💡 협업 방법
 
