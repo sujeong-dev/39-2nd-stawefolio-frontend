@@ -110,7 +110,7 @@ https://vimeo.com/782389234
 [GitBook](https://yhkyhk92s-organization.gitbook.io/stawefolio/) <br />
 - Notion과 Trello를 사용하여 scrum, sprint 진행
 - GitBook 활용하여 API 및 mockdata형식 공유
-- Lint, Pretier, Git flow활용
+- Lint, Prettier, Git flow활용
 
 <br />
 
