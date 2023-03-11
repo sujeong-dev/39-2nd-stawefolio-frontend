@@ -28,6 +28,11 @@ $ npm start
 
 <br />
 
+## 🎥 데모영상
+https://vimeo.com/782389234
+
+<br />
+
 ## 🔧 사용하는 기술스택
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display=inline" />
